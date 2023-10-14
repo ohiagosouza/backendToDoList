@@ -9,12 +9,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" alt="Java Logo" title="Java" height="50px"/>
 </div>
 
-## Screenshots
-
-<img src="./images/desktopView.png" alt="Desktop Preview" title="Desktop Preview" height="320px">
-
 ## Author
 
 | [<img src="https://avatars.githubusercontent.com/u/105474434?v=4" height="100px"><br><sub>Hiago Souza</sub>](https://github.com/ohiagosouza) |
 | :------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](https://www.linkedin.com/in/ohiagosouza)                                              |
+
+- Curso Gratuido Java [Rocketseat](https://www.rocketseat.com.br/)
